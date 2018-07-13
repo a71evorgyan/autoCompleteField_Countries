@@ -1,0 +1,25 @@
+
+
+form{
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  flex-direction: column;
+}
+
+.Input{
+  width: 200px;
+  font-size: 20px;
+}
+.tableOfCountries{
+  
+  font-size:  20px;
+}
+.rowsOfTable{
+  display: flex;
+  width: 196.5px;
+  border: 0.1px solid black;
+  
+  padding: 4px;
+  margin: 0.1px;
+}
